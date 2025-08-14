@@ -23,4 +23,3 @@ The simulation is designed to run 500 login attempts based on the parameters tha
 •	Password(primarily) success rate: 15% likelihood of successful login attempt through username and password
 •	OTP(MFA) success rate: 10% if MFA was implemented (additional level of security)
 
-![Uploading image.png…]()
